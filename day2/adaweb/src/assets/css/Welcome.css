@@ -1,0 +1,26 @@
+.welcome-component {
+    background-color: #880000;
+    background-image: url('../images/bg.jpg');
+    background-size: 100%;
+    color: #FFF;
+    height: 25em;
+    padding: 0;
+    margin-bottom: 1em;
+}
+
+.gradient {
+    background-image: linear-gradient(rgba(0, 0, 255, 0.2), rgba(128, 0, 128 ,0.5));
+    width: auto;
+    height: 100%;
+    border-radius: 25px;
+}
+
+.header-text {
+    margin: 2em;
+}
+
+.my-btn {
+    margin-right: 1em;
+    margin-left: 2em;
+    width: 10em;
+}

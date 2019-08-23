@@ -1,0 +1,27 @@
+.information-component {
+    height: 20em;
+    margin-bottom: 3em;
+}
+
+.col-lg-8 {
+    padding: 0;
+}
+
+.col-lg-4 {
+    padding: 0;
+}
+
+.img-info-section {
+    height: 20em;
+    background-image: url('../images/infoImage.jpg');
+    background-size: 100%;
+    padding-top: 1em;
+}
+
+.text-info-section {
+    padding: 1em;
+    background-color: cornflowerblue;
+    color: #FFF;
+    height: 100%;
+    font-size: 27.5px;
+}
